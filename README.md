@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G Sruthi</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Frontend Developer | ML Explorer | Engineering Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sruthi1907&label=Profile%20views&color=0e75b6&style=flat" alt="sruthi1907" />
@@ -7,82 +7,68 @@
 
 ---
 
-### 👩‍💻 About Me
+# 💫 About Me:
+🎓 Engineering student with a passion for **Frontend Development** and **Machine Learning**.  
+🌐 Exploring backend technologies like Firebase & Node.js along with modern frontend frameworks like React.  
+🧠 I love building creative and responsive web apps and diving deep into data science projects.  
+💡 Always curious about design systems, automation, and smart real-world applications.  
 
-- 🎓 I'm an engineering student with a strong interest in **Frontend Development** and **Machine Learning**.
-- 🔭 Currently working on enhancing my skills in React and modern web technologies.
-- 🌱 Exploring backend integration using **Firebase** and **Node.js**.
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**, or anything frontend-related!
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/g-sruthi-925a5b256)
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/g-sruthi-925a5b256" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+📍 BTech | India  
+<br><br>Currently working on: Strengthening frontend with React, integrating Firebase in real-world apps, and improving ML understanding.<br>Looking to collaborate on: Web apps, UI/UX-based tools, ML integrations, and academic tools.<br>Tech Stack: HTML, CSS, JavaScript, React, Python, Firebase, Node.js, Git, ML tools, Arduino, and more.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 Projects
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
-
-#### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-#### 🔧 Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
-#### 📱 Others & Embedded
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-</p>
-
-#### 🤖 Data Science / ML
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
+| Project Name                                | Description                                                                 | Use Case                                                                  | GitHub Repo | Live Demo / Run |
+|---------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------|------------------|
+| **Portfolio Website**                 | Personal portfolio to showcase projects and skills           | Displays achievements and connects with collaborators                | [Repo 🔗](#) | Live Soon |
+| **To-Do App with Firebase**              | React app with Firebase backend for real-time tasks        | Task tracking and CRUD operations with cloud sync                | [Repo 🔗](#) | Run Locally |
+| **Student Result Analyzer**                      | Tool to visualize and analyze student results                    | Academic performance insights via charts and filters              | [Repo 🔗](#) | Run Locally |
+| **ML Model Trainer GUI**            | Simple interface to load datasets and train models                | Makes model building accessible for beginners         | [Repo 🔗](#) | In Progress |
+| **College Event Page**                  | Website template for managing and showcasing college fests          | One-stop portal for event info and registrations              | [Repo 🔗](#) | In Progress |
+| **Face Recognition Attendance System**  | Python OpenCV-based system for marking attendance                | Enhances classroom and office automation                               | [Repo 🔗](#) | Run Locally |
+| **Mini E-Commerce Website**                 | Frontend-only website with dynamic cart and product listings               | Demo of shopping flow for small businesses                     | [Repo 🔗](#) | Deploying Soon |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sruthi1907&show_icons=true&locale=en" alt="sruthi1907" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sruthi1907&" alt="sruthi1907" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthi1907&layout=compact" alt="Top Languages" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-sruthi-925a5b256)
 
 ---
 
-✨ _Thank you for visiting my profile!_ 😊
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-005571.svg?style=for-the-badge&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sruthi1907&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sruthi1907&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthi1907&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sruthi1907&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Generated using a custom markdown template inspired by GPRM -->
