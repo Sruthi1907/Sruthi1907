@@ -29,7 +29,6 @@ Looking to collaborate on: ML-based tools, full-stack projects, embedded prototy
 |----------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----|
 | **Mental Health Predictor** | ML model analyzing survey data to predict treatment needs               | Identifies key mental health risk factors in tech industry            | [🔗 View Repo](https://github.com/Sruthi1907/MentalHealthPredictor)                              | Run Locally |
 | **Home Foods Website**     | Full-stack homemade food delivery site using Firebase                    | Local ordering system with real-time DB updates, email/SMS alerts     |  [🔗 View Repo](https://github.com/Sruthi1907/Home-Foods)                            | Run Locally |
-| **Sleepiness Alerting System** | Arduino + eye-blink sensor for real-time drowsiness detection       | Enhances driver safety through hardware-level fatigue alerts          | *Prototype-based — Arduino IDE project*                                                          | Hardware |
 
 ---
 
