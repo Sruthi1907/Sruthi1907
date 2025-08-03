@@ -22,13 +22,7 @@
 
 | Project Name                                | Description                                                                 | Use Case                                                                  | GitHub Repo | Live Demo / Run |
 |---------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------|------------------|
-| **Portfolio Website**                 | Personal portfolio to showcase projects and skills           | Displays achievements and connects with collaborators                | [Repo 🔗](#) | Live Soon |
-| **To-Do App with Firebase**              | React app with Firebase backend for real-time tasks        | Task tracking and CRUD operations with cloud sync                | [Repo 🔗](#) | Run Locally |
-| **Student Result Analyzer**                      | Tool to visualize and analyze student results                    | Academic performance insights via charts and filters              | [Repo 🔗](#) | Run Locally |
-| **ML Model Trainer GUI**            | Simple interface to load datasets and train models                | Makes model building accessible for beginners         | [Repo 🔗](#) | In Progress |
-| **College Event Page**                  | Website template for managing and showcasing college fests          | One-stop portal for event info and registrations              | [Repo 🔗](#) | In Progress |
-| **Face Recognition Attendance System**  | Python OpenCV-based system for marking attendance                | Enhances classroom and office automation                               | [Repo 🔗](#) | Run Locally |
-| **Mini E-Commerce Website**                 | Frontend-only website with dynamic cart and product listings               | Demo of shopping flow for small businesses                     | [Repo 🔗](#) | Deploying Soon |
+| **Mental Health Predictor**            | ML model analyzing survey data to predict treatment outcomes                | Identifies key indicators in mental health for support strategies         | [Repo 🔗](https://github.com/Sruthi1907/MentalHealthPredictor) | Run Locally       |
 
 ---
 
