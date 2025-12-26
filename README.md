@@ -65,31 +65,6 @@ I enjoy working on modern web platforms, predictive ML models, and embedded hard
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sruthi1907&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sruthi1907&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthi1907&theme=tokyonight&layout=compact)
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-</div>
-
----
-
-<div align="center">
 
 ![](https://visitcount.itsvg.in/api?id=sruthi1907&icon=0&color=0)
 
