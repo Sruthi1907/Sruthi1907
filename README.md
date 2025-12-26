@@ -2,7 +2,7 @@
 
 # **G Sruthi** 👋  
 
-### **ML Engineer | ECE Undergrad**
+### **Machine Learning Engineer | ECE Undergraduate**
 
 </div>
 
