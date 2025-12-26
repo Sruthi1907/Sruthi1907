@@ -18,8 +18,6 @@ I enjoy working on modern web platforms, predictive ML models, and embedded hard
 - 🤝 **Open to Collaborate On**: ML-based tools, full-stack projects, embedded prototypes, and academic tech
 - 💡 **Belief**: Curiosity-driven learning and simple design lead to impactful technology
 
-**Tech Stack:** HTML, CSS, JavaScript, React, Python, Firebase, Node.js, Git, ML tools, Arduino, SQL, and more.
-
 ---
 
 ## 🛠️ Technology Stack
