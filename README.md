@@ -2,9 +2,7 @@
 
 # **G Sruthi** 👋  
 
-### **ML Explorer | ECE Undergrad**
-
-<img src="https://komarev.com/ghpvc/?username=sruthi1907&label=Profile%20views&color=0e75b6&style=flat" alt="sruthi1907" />
+### **ML Engineer | ECE Undergrad**
 
 </div>
 
@@ -12,20 +10,13 @@
 
 ## 🚀 About Me
 
-🎓 I'm an Electronics and Communication Engineering student passionate about **Frontend Development**, **Machine Learning**, and **Embedded Systems**.  
+I am an **Electronics and Communication Engineering undergraduate** passionate about building real-world applications through **Frontend Development, Machine Learning, and Embedded Systems**.  
+I enjoy working on modern web platforms, predictive ML models, and embedded hardware projects that solve practical problems.
 
-🌐 I’m actively exploring backend tools like Firebase & Node.js alongside modern frontend frameworks like React.  
-
-🧠 I love building real-world applications—ranging from web platforms to predictive ML models and embedded hardware projects.  
-
-💡 Curious by nature, I'm drawn to UI/UX systems, automation, and smart tech solutions.
-
-📍 **BTech | Vardhaman College of Engineering | India**
-
-<br>
-
-- 🔭 **Currently working on**: Enhancing frontend apps with React & Firebase, exploring ML model deployment  
-- 🤝 **Looking to collaborate on**: ML-based tools, full-stack projects, embedded prototypes, or academic tech  
+- 🔭 **Current Work**: Enhancing frontend applications using **React & Firebase** and exploring **ML model deployment**
+- 🌱 **Learning**: Backend tools like **Firebase & Node.js**, modern frontend frameworks, and applied Machine Learning
+- 🤝 **Open to Collaborate On**: ML-based tools, full-stack projects, embedded prototypes, and academic tech
+- 💡 **Belief**: Curiosity-driven learning and simple design lead to impactful technology
 
 **Tech Stack:** HTML, CSS, JavaScript, React, Python, Firebase, Node.js, Git, ML tools, Arduino, SQL, and more.
 
