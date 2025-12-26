@@ -116,7 +116,7 @@ A web-based application for RO water plant administrators with real-time monitor
 <a href="https://www.linkedin.com/in/g-sruthi-925a5b256/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sruthi1907@gmail.com">
+<a href="mailto:sruthig2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Sruthi1907">
