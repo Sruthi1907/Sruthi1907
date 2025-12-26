@@ -104,16 +104,27 @@ A web-based application for RO water plant administrators with real-time monitor
 ---
 
 <div align="center">
+<div align="center">
 
-## 🌐 Let’s Connect
+## 💬 Let’s Connect & Collaborate
 
-<a href="https://linkedin.com/in/g-sruthi-925a5b256">
+*Always open to meaningful discussions, collaboration, and innovative project ideas in*  
+**Machine Learning · Frontend Development · Embedded Systems**
+
+<br>
+
+<a href="https://www.linkedin.com/in/g-sruthi-925a5b256/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:sruthi1907@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Sruthi1907">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+<br><br>
 
-
-![](https://visitcount.itsvg.in/api?id=sruthi1907&icon=0&color=0)
+🚀 *Let’s build solutions that create real-world impact.*
 
 </div>
