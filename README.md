@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -47,11 +46,60 @@ I enjoy working on modern web platforms, predictive ML models, and embedded hard
 ---
 
 ## 💼 Featured Projects
+_A collection of projects showcasing different aspects of my technical journey_
 
-| Project Name | Description | Use Case | Repository | Status |
-|-------------|------------|----------|------------|--------|
-| **Mental Health Predictor** | ML model analyzing survey data to predict treatment needs | Identifies key mental health risk factors in tech industry | [🔗 View Repo](https://github.com/Sruthi1907/MentalHealthPredictor) | Run Locally |
-| **Home Foods Website** | Full-stack homemade food delivery site using Firebase | Local ordering system with real-time DB updates, email/SMS alerts | [🔗 View Repo](https://github.com/Sruthi1907/Home-Foods) | Run Locally |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏠 <a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" target="_blank">Home Foods Website</a>
+A full-stack platform for promoting and selling homemade food products using HTML, CSS, JavaScript, Firebase, and AWS services.
+
+<a href="https://lnkd.in/gYVMWqZz" target="_blank">Live Demo</a> | 
+<a href="https://github.com/SAINATH0224/Himabindu-Home-Foods" target="_blank">View Code</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄<a href="https://github.com/SAINATH0224/AI-Enabled-OCR-Framework-for-Automated-Document-Digitization" >AI-Enabled OCR Framework for Automated Document Digitization</a>
+An AI-powered OCR system that extracts, processes, and digitizes text from documents using computer vision and machine learning techniques.
+
+<b>In Progress</b> | 
+<a href="https://github.com/SAINATH0224/AI-Enabled-OCR-Framework-for-Automated-Document-Digitization" target="_blank">View Code</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏏 <a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">IMPULSE Sports Website</a>
+Official website for the NMIMS STME Sports Committee showcasing teams, events, and announcements.
+
+<a href="https://sainath0224.github.io/IMPULSE_Sports_Website/" target="_blank">Live Demo</a> | 
+<a href="https://github.com/SAINATH0224/IMPULSE_Sports_Website" target="_blank">View Code</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 <a href="https://github.com/SAINATH0224/Ro-Water-Plant-Web-Application" target="_blank">Ro-Water-Plant-Web-Application</a>
+A web-based application for RO water plant administrators with real-time monitoring, tracking, payments, and analytics.
+
+<a href="https://sainath0224.github.io/Ro-Water-Plant-Web/" target="_blank">Live Demo</a> |
+<a href="https://github.com/SAINATH0224/Ro-Water-Plant-Web" target="_blank">View Code</a>
+
+
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
